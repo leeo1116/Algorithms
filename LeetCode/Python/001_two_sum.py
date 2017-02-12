@@ -13,4 +13,3 @@ class Solution(object):
                 return [num_index_dict[target - n], i]
             num_index_dict[n] = i
         return []
-
