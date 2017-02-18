@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d211653d-0479-499e-b1be-7fef275447e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/004_median_of_two_sorted_arrays.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/022_generate_parentheses.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/002_add_two_numbers.py" afterPath="$PROJECT_DIR$/002_add_two_numbers.py" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="004_median_of_two_sorted_arrays.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="004_median_of_two_sorted_arrays.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/004_median_of_two_sorted_arrays.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -65,6 +63,26 @@
                 <element signature="e#95#1394#0" expanded="false" />
                 <element signature="e#1467#2565#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="017_letter_combinations_of_a_phone_number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="022_generate_parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/022_generate_parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +119,8 @@
         <option value="$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py" />
         <option value="$PROJECT_DIR$/common_data_structure/004_median_of_two_sorted_arrays.py" />
         <option value="$PROJECT_DIR$/004_median_of_two_sorted_arrays.py" />
+        <option value="$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py" />
+        <option value="$PROJECT_DIR$/022_generate_parentheses.py" />
       </list>
     </option>
   </component>
@@ -353,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486940625813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LeetCode 003 and 004">
+      <created>1487313457348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487313457348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -392,7 +419,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ignore files in .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ignore files in .idea" />
+    <MESSAGE value="LeetCode 003 and 004" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode 003 and 004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -532,6 +560,22 @@
             <element signature="e#95#1394#0" expanded="false" />
             <element signature="e#1467#2565#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/022_generate_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
