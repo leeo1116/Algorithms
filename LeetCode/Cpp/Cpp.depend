@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488440463 source:f:\github\algorithms\leetcode\cpp\main.cpp
+	<iostream>
+	<unordered_map>
+	"solutions.h"
+
+1488440444 f:\github\algorithms\leetcode\cpp\solutions.h
+
