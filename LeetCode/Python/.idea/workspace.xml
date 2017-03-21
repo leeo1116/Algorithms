@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d211653d-0479-499e-b1be-7fef275447e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/.idea/Facebook.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/3sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/word_break.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/218_the_skyline_problem.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Companies/Facebook/word_break.py" afterPath="$PROJECT_DIR$/../../Companies/Facebook/word_break.py" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +85,8 @@
       <file leaf-file-name="word_break.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/word_break.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="156">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -964,8 +956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/word_break.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="156">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>

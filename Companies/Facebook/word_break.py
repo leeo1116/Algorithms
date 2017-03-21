@@ -46,11 +46,10 @@ print(word_break_dfs("lianglianghili", ["liang", "li", "hi"]))  # TLE for test c
 
 # Naive idea: traverse s and determine if the left part of s - word can be broken into words, iteratively
 def word_break_dp(s, words):
-    word_exist_dict = {w: True for w in words}
     can_break = [False] * len(s)
-    for i in range(1, len(s) + 1):
+    for i in range(len(s)):
         for w in words:
-            if word_exist_dict.get(s[i - len(w) + 1:i + 1]) and (can_break[i - len(w)] or i - len(w) == -1):
+            if w == s[i - len(w) + 1:i + 1] and (can_break[i - len(w)] or i - len(w) == -1):
                 can_break[i] = True
     return can_break[len(s) - 1]
 
