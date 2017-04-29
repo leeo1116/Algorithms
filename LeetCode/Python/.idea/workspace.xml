@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d211653d-0479-499e-b1be-7fef275447e4" name="Default" comment="03/12/2017">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/best_time_to_buy_and_sell_stock_I.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/binary_tree_double_linked_list_conversion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/count_and_say.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/decode_ways.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/dictionary_lookup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/find_median_of_k_sorted_arrays.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/generate_sorted_square_array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/intersection_of_two_arrays_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/minimum_size_subarray_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/polulating_next_right_pointers_in_each_node.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/print_binary_tree_vertically.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/search_in_rotated_sorted_array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/sliding_window_maximum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/sort_colors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/string_comparator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/task_with_cool_down.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/two_sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/290_word_pattern.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/300_longest_increasing_subsequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/085_maximal_rectangle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python.iws" />
@@ -43,31 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="add_and_search_word.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py">
+      <file leaf-file-name="085_maximal_rectangle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/085_maximal_rectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sliding_window_maximum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/sliding_window_maximum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="expression_add_operators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="336">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/002_add_two_numbers.py" />
         <option value="$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py" />
         <option value="$PROJECT_DIR$/common_data_structure/004_median_of_two_sorted_arrays.py" />
         <option value="$PROJECT_DIR$/004_median_of_two_sorted_arrays.py" />
@@ -145,6 +104,7 @@
         <option value="$PROJECT_DIR$/../../Companies/Facebook/arg.py" />
         <option value="$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py" />
         <option value="$PROJECT_DIR$/../../Companies/Facebook/trend.py" />
+        <option value="$PROJECT_DIR$/085_maximal_rectangle.py" />
       </list>
     </option>
   </component>
@@ -180,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Facebook" />
+              <option name="myItemId" value="Python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,25 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.expression_add_operators">
-    <configuration default="false" name="add_and_search_word" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Companies/Facebook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Facebook" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.085_maximal_rectangle">
     <configuration default="false" name="expression_add_operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,6 +233,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Facebook" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Companies/Facebook/arg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="085_maximal_rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/085_maximal_rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,19 +353,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.add_and_search_word" />
-      <item index="1" class="java.lang.String" itemvalue="Python.expression_add_operators" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.arg" />
+      <item index="0" class="java.lang.String" itemvalue="Python.expression_add_operators" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.arg" />
+      <item index="4" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.expression_add_operators" />
-        <item index="1" class="java.lang.String" itemvalue="Python.arg" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.add_and_search_word" />
+        <item index="0" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.expression_add_operators" />
+        <item index="2" class="java.lang.String" itemvalue="Python.arg" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -502,21 +462,21 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2632375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2749591" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22913256" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14583333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2749591" sideWeight="0.5060514" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913256" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2749591" sideWeight="0.49394855" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2831424" sideWeight="0.49394855" order="10" side_tool="false" content_ui="tabs" x="-25" y="206" width="1322" height="174" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -568,18 +528,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="51" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/002_add_two_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -684,13 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/078_subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -918,8 +864,24 @@
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/trend.py" />
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="800">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/078_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/085_maximal_rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
