@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d211653d-0479-499e-b1be-7fef275447e4" name="Default" comment="03/12/2017">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/085_maximal_rectangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Facebook/longest_path_in_bst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Microsoft/.idea/Microsoft.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Microsoft/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Microsoft/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Companies/Microsoft/top_2_max.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/123_best_time_to_buy_and_sell_stock_III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/126_word_ladder_II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/151_maximum_product_subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/153_find_minimum_in_rotated_sorted_array.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python.iws" />
@@ -23,11 +33,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="085_maximal_rectangle.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/085_maximal_rectangle.py">
+      <file leaf-file-name="expression_add_operators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top_2_max.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Companies/Microsoft/top_2_max.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,12 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py" />
-        <option value="$PROJECT_DIR$/common_data_structure/004_median_of_two_sorted_arrays.py" />
-        <option value="$PROJECT_DIR$/004_median_of_two_sorted_arrays.py" />
-        <option value="$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py" />
-        <option value="$PROJECT_DIR$/022_generate_parentheses.py" />
-        <option value="$PROJECT_DIR$/025_reverse_nodes_in_k_group.py" />
         <option value="$PROJECT_DIR$/030_substring_with_concatenation_of_all_words.py" />
         <option value="$PROJECT_DIR$/039_combination_sum.py" />
         <option value="$PROJECT_DIR$/044_wildcard_matching.py" />
@@ -105,6 +119,12 @@
         <option value="$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py" />
         <option value="$PROJECT_DIR$/../../Companies/Facebook/trend.py" />
         <option value="$PROJECT_DIR$/085_maximal_rectangle.py" />
+        <option value="$PROJECT_DIR$/123_best_time_to_buy_and_sell_stock_III.py" />
+        <option value="$PROJECT_DIR$/../../Companies/Facebook/longest_path_in_bst.py" />
+        <option value="$PROJECT_DIR$/151_maximum_product_subarray.py" />
+        <option value="$PROJECT_DIR$/153_find_minimum_in_rotated_sorted_array.py" />
+        <option value="$PROJECT_DIR$/126_word_ladder_II.py" />
+        <option value="$PROJECT_DIR$/../../Companies/Microsoft/top_2_max.py" />
       </list>
     </option>
   </component>
@@ -140,18 +160,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
+              <option name="myItemId" value="Microsoft" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Companies/Microsoft" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -171,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.085_maximal_rectangle">
+  <component name="RunManager" selected="Python.126_word_ladder_II">
     <configuration default="false" name="expression_add_operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,54 +210,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in arg.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Companies/Facebook" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../Companies/Facebook/arg.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for arg.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Companies/Facebook" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;arg.py&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="arg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Companies/Facebook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Facebook" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Companies/Facebook/arg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="085_maximal_rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,6 +223,60 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/085_maximal_rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="longest_path_in_bst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Companies/Facebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Facebook" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Companies/Facebook/longest_path_in_bst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="153_find_minimum_in_rotated_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/153_find_minimum_in_rotated_sorted_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="126_word_ladder_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/126_word_ladder_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,18 +380,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.expression_add_operators" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.arg" />
-      <item index="4" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.longest_path_in_bst" />
+      <item index="3" class="java.lang.String" itemvalue="Python.153_find_minimum_in_rotated_sorted_array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.126_word_ladder_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.expression_add_operators" />
-        <item index="2" class="java.lang.String" itemvalue="Python.arg" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in arg.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for arg.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.126_word_ladder_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.153_find_minimum_in_rotated_sorted_array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.longest_path_in_bst" />
+        <item index="3" class="java.lang.String" itemvalue="Python.085_maximal_rectangle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.expression_add_operators" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -459,13 +485,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14583333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2749591" sideWeight="0.5060514" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913256" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22913256" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -520,6 +546,21 @@
           <line>33</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Companies/Facebook/longest_path_in_bst.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/126_word_ladder_II.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/126_word_ladder_II.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -528,53 +569,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="79" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_data_structure/ListNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_two_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002_add_two_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_two_sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/003_longest_substring_without_repeating_characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/004_median_of_two_sorted_arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -586,13 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -823,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Program Files/Python34/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="306" column="0" lean-forward="false" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/count_and_say.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -848,11 +833,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/arg.py" />
+    <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/trend.py" />
+    <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/078_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/085_maximal_rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="31" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123_best_time_to_buy_and_sell_stock_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python34/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/longest_path_in_bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017_letter_combinations_of_a_phone_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/151_maximum_product_subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/153_find_minimum_in_rotated_sorted_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/126_word_ladder_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/expression_add_operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -861,27 +918,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/trend.py" />
-    <entry file="file://$PROJECT_DIR$/../../Companies/Facebook/add_and_search_word.py">
+    <entry file="file://$PROJECT_DIR$/../../Companies/Microsoft/top_2_max.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/078_subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/085_maximal_rectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
